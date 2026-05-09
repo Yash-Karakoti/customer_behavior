@@ -24,7 +24,6 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 1. **Clone the repository**
    ```bash
    git clone https://github.com/Yash-Karakoti/customer_behavior.git
-   cd da
    ```
 2. **analysis.ipynb notebook**
 
